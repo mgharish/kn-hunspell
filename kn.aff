@@ -2,7 +2,7 @@
 # Built from scratch for MySpell. Released under LGPL.
 #
 # Harisha M G
-# Released on Mon Oct 15 01:41:23 IST 2012
+# Released on Mon Oct 15 01:46:24 IST 2012
 #  - UTF-8 encoded dictionary:
 #
 
@@ -21,6 +21,10 @@ REP ಕ ಖ
 # ಅಕಾರಾಂತ ಪುಲ್ಲಿಂಗ (ರಾಮ)
 SFX 11 Y 2
 SFX 11 0 ನ/1000,1001,1002
+SFX 11 0 ರ/1000,1001,1002
+
+# ಅಕಾರಾಂತ ಸಾಮಾನ್ಯಲಿಂಗ (ಜನ)
+SFX 11 Y 4
 SFX 11 0 ರ/1000,1001,1002
 
 # ಆಕಾರಾಂತ ನಪುಂಸಕಲಿಂಗ (ಅಮೆರಿಕಾ)

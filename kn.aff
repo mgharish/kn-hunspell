@@ -2,7 +2,7 @@
 # Built from scratch for MySpell. Released under LGPL.
 #
 # Harisha M G
-# Released on Mon Oct 15 02:29:11 IST 2012
+# Released on Tue Oct 16 00:02:28 IST 2012
 #  - UTF-8 encoded dictionary:
 #
 
@@ -47,11 +47,23 @@ SFX 92 0 ಯ/1000,1001
 SFX 92 0 0/1003
 SFX 92 0 ಯರ/1000,1001,1002
 
+# ಇಕಾರಾಂತ ಪುಲ್ಲಿಂಗ (ಸಖಿ)
+SFX 31 Y 3
+SFX 31 0 ಯ/1000,1001
+SFX 31 0 0/1003
+SFX 31 0 ಯರ/1000,1001,1002
+
 # ಇಕಾರಾಂತ ಸ್ತ್ರೀಲಿಂಗ (ಸಖಿ)
 SFX 32 Y 3
 SFX 32 0 ಯ/1000,1001
 SFX 32 0 0/1003
 SFX 32 0 ಯರ/1000,1001,1002
+
+# ಇಕಾರಾಂತ ನಪುಂಸಕಲಿಂಗ (ಸಖಿ)
+SFX 33 Y 3
+SFX 33 0 ಯ/1000,1001
+SFX 33 0 0/1003
+SFX 33 0 ಯರ/1000,1001,1002
 
 # ಎಕಾರಾಂತ ನಪುಂಸಕಲಿಂಗ (ದವಡೆ)
 SFX 93 Y 3

@@ -1,4 +1,4 @@
-var err = initInstall("Hindi", "kn-hunspell@mgharish.addons.mozilla.org", "2.1");
+var err = initInstall("Kannada", "kn-hunspell@mgharish.addons.mozilla.org", "2.1");
 if (err != SUCCESS)
     cancelInstall();
 

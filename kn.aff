@@ -2,7 +2,7 @@
 # Built from scratch for MySpell. Released under LGPL.
 #
 # Harisha M G
-# Released on Tue Oct 16 23:35:05 IST 2012
+# Released on Tue Oct 16 23:52:22 IST 2012
 #  - UTF-8 encoded dictionary:
 #
 
@@ -95,9 +95,12 @@ SFX 1000 0 ೇ
 SFX 1000 0 ೆ
 SFX 1000 0 ೂ
 
-SFX 1001 Y 2
+SFX 1001 Y 5
 SFX 1001 0 ಿಂದ
 SFX 1001 0 ಲ್ಲಿ
+SFX 1001 0 ಲ್ಲಿಯೇ
+SFX 1001 0 ಲ್ಲೇ
+SFX 1001 0 ಲ್ಲಿಯೂ
 
 SFX 1002 Y 5
 SFX 1002 0 ಿಗೆ

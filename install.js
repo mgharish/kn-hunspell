@@ -1,4 +1,4 @@
-var err = initInstall("Kannada", "kn@dictionaries.addons.mozilla.org", "2.0");
+var err = initInstall("Kannada", "kn@dictionaries.addons.mozilla.org", "1.0");
 if (err != SUCCESS)
     cancelInstall();
 

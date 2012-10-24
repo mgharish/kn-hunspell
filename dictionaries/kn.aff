@@ -2,7 +2,7 @@
 # Built from scratch for MySpell. Released under LGPL.
 #
 # Harisha M G
-# Released on Wed Oct 24 02:31:46 IST 2012
+# Released on Wed Oct 24 10:35:28 IST 2012
 #  - UTF-8 encoded dictionary:
 #
 
@@ -128,7 +128,7 @@ SFX 1004 0 ಕ್ಕೆಂದು
 SFX 1004 0 ಕ್ಕಿಂತ
 SFX 1004 0 ಕ್ಕೂ
 
-SFX 6001 Y 56
+SFX 6001 Y 57
 SFX 6001 0 ತ್ತೇನೆ
 SFX 6001 0 ತ್ತೇವೆ
 SFX 6001 0 ತ್ತೀಯೆ
@@ -179,9 +179,10 @@ SFX 6001 0 ವವರಲ್ಲಿ
 SFX 6001 0 ತ್ತಾ
 SFX 6001 0 ವ
 SFX 6001 0 ದ
+SFX 6001 0 ವಂಥ
+SFX 6001 0 ವಾಗ
 SFX 6001 ು ಲು
 SFX 6001 ು ದಂತೆ
 SFX 6001 ು ಬೇಕು
 SFX 6001 ು ಬೇಡ
-SFX 6001 0 ವಂಥ
-SFX 6001 0 ವಾಗ
+SFX 6001 ು ದ

@@ -2,7 +2,7 @@
 # Built from scratch for MySpell. Released under LGPL.
 #
 # Harisha M G
-# Released on Fri Nov  2 22:22:29 IST 2012
+# Released on Sat Nov  3 03:22:41 IST 2012
 #  - UTF-8 encoded dictionary:
 #
 
@@ -160,10 +160,12 @@ SFX 1005 ು ನ್ನೇ
 SFX 1005 ು ನು
 SFX 1005 ು ೇ
 
-SFX 1001 Y 8
+SFX 1001 Y 10
 SFX 1001 0 ಿಂದ
 SFX 1001 0 ಿಂದಲೂ
 SFX 1001 0 ಲ್ಲಿ
+SFX 1001 0 ಲ್ಲಿರುವ
+SFX 1001 0 ಲ್ಲಿನ
 SFX 1001 0 ಲಿ
 SFX 1001 0 ಲ್ಲಿಯೇ
 SFX 1001 0 ಲ್ಲೇ
@@ -325,7 +327,7 @@ SFX 7001 Y 9
 SFX 7001 0 ನು
 SFX 7001 0 ಳು
 SFX 7001 0 ರು
-SFX 7001 0 ವನು
+SFX 7001 0 ವರು
 SFX 7001 0 ವಳು
 SFX 7001 0 ವರು
 SFX 7001 0 ವನೇ

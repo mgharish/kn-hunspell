@@ -5,7 +5,7 @@
     <em:type>64</em:type>
     <em:id>kn@dictionaries.addons.mozilla.org</em:id>
 	<em:unpack>true</em:unpack>
-    <em:version>1.0.4</em:version>
+    <em:version>2.0.0</em:version>
     <em:creator>Harisha M G</em:creator>
     <em:developer>Harisha M G</em:developer>
     <em:contributor>Harish M G</em:contributor>
@@ -57,6 +57,15 @@
         <em:id>{718e30fb-e89b-41dd-9da7-e25a45638b28}</em:id>
         <em:minVersion>1.0b1</em:minVersion>
         <em:maxVersion>5.*</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+
+    <!-- Firefox for Android -->
+    <em:targetApplication>
+      <Description>
+        <em:id>{aa3c5121-dab2-40e2-81ca-7ea25febc110}</em:id>
+        <em:minVersion>10.0a1</em:minVersion>
+        <em:maxVersion>23.*</em:maxVersion>
       </Description>
     </em:targetApplication>
 
